@@ -1,5 +1,6 @@
 A clean, user-friendly desktop application for downloading YouTube videos and audio built with Python and Tkinter.
 Features
+![Screenshot 2025-05-10 223301-1](https://github.com/user-attachments/assets/c2d7d76c-28f3-485c-8d6d-597bc02aee19)
 
 High-Quality Downloads: Download videos in the highest available quality
 Format Options: Choose between video formats or extract audio as MP3
